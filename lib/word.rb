@@ -1,5 +1,5 @@
 class Word
-  attr_accessor :id, :name, :pronunce
+  attr_accessor :id, :name, :pronounce
 
   @@words ={}
   @@total_rows = 0
@@ -19,7 +19,7 @@ class Word
     @@words[self.id] = Word.new(self.name, self.id, self.pronounce)
   end
 
-  def ==(word_to_conpare)
+  def ==(word_to_compare)
     self.name() == word_to_compare.name()
   end
 
@@ -49,7 +49,7 @@ class Word
   end
 
   def definitions
-    definition.find_by_word(self.id)
+    Definition.find_by_word(self.id)
   end
 
 

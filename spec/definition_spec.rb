@@ -1,4 +1,4 @@
 require 'rspec'
-require 'song'
-require 'album'
+require 'definition'
+require 'word'
 require 'pry'
