@@ -45,8 +45,8 @@ class Word
   end
 
   def self.search(x)
-      @@words.values.select { |e| /#{x}/i.match? e.name}
-    end
+    @@words.values.select { |e| /#{x}/i.match? e.name}
+  end
 
   def definitions
     definition.find_by_word(self.id)
