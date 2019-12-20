@@ -1,12 +1,12 @@
-# _AnaGRAMer_
+# _¡WORD UP!_
 
-#### _This is an application that determines if two words are an anagram_
+#### _This is an application that stores ords and their definitions_
 
 #### By _**Nate Powers**_
 
 ## Description
 
-_This application allows the user to input two words and discover if they are an anagram or not_
+_This application allows the user to create, read, update & delete words, definitions and pronunciation details_
 
 _https://3t8u.github._
 
@@ -47,7 +47,7 @@ _Any questions, comments or contributions please contact Nate Powers (Russellspr
 
 ## Technologies Used
 
-_Ruby, GEM & Rspec_
+_Ruby, GEM, Sinatra, Rspec, Bootstrap, HTML & Capybera_
 
 ### License
 
