@@ -12,17 +12,17 @@ _https://3t8u.github._
 
 ##Specs
 
-* _The application takes two words and makes them lowercase_
+* _The application allows the user to input a word_
 
-* _The application checks to see if the words contain vowels and that they, are in fact words_
+* _The application allows the user to add a definition to the inputted word and a pronunciation key_
 
-* _The application analyzes the words to determine if they are the same length_
+* _The application allows the user edit & delete words, their definitions and pronunciations_
 
-* _If the words are the same length  and are actual words then, the words are checked to see if they are anagrams by containing the same letters_
+* _The application allows the user to click and sort all entries alphabetically_
 
-* _If the words are not anagrams, they are checked to see if they are anti grams_
+* _The application allows the user to search the list of words by word or definition_
 
-* _The application checks multiple words against the same criteria_
+* _  _
 
 
 
