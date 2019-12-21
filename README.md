@@ -32,7 +32,7 @@ _https://3t8u.github._
 
 ## Setup/Installation Requirements
 
-* _Open HTML page in browser_
+* _Open page in Heroku (https://word-upkids.herokuapp.com/)_
 
 
 __
