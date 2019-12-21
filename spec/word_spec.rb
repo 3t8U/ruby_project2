@@ -110,7 +110,7 @@ describe '#Word' do
     end
   end
 
-  describe('#definitions') do                 #returns songs from an album
+  describe('#definitions') do           
     it("returns a word's definitions") do
       word = Word.new("Horse", nil, nil)
       word.save()

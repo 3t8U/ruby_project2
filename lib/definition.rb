@@ -41,7 +41,7 @@ class Definition
     @@definitions = {}
   end
 
-  def self.find_by_word(word_id)            #add definitions to word (push w/ID)
+  def self.find_by_word(word_id)           
     definitions = []
     @@definitions.values.each do |definition|
       if definition.word_id == word_id
@@ -51,7 +51,7 @@ class Definition
     definitions
   end
 
-  def word       #find the album a song belongs to
+  def word
     Word.find(self.word_id)
   end
 end

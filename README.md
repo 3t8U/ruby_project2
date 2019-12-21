@@ -1,6 +1,6 @@
 # _¡WORD UP!_
 
-#### _This is an application that stores ords and their definitions_
+#### _This is an application that stores words and their definitions_
 
 #### By _**Nate Powers**_
 

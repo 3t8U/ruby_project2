@@ -63,7 +63,7 @@ end
 
 #DEFINITiON FUNCTIONALITY !!!!
 
-# Get the detail for a specific definition such as lyrics and definitionwriters.
+
 get('/words/:id/definitions/:definition_id') do
   @definition = Definition.find(params[:definition_id].to_i())
   erb(:definition)
