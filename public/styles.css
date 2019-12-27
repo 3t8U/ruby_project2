@@ -1,8 +1,6 @@
 button {
 color: black;
 object-position: center;
-
-
 }
 
 body{
@@ -11,12 +9,19 @@ body{
   background-image: url("https://66.media.tumblr.com/1a7b24222add3eed5052f64dc106afbe/tumblr_o06l3aS5jb1uj9fp6o1_400.png");
   background-repeat:repeat;
   background-position: bottom;
-
-
 }
 
-.titles{
-  font-family: 'Freckle Face', cursive;
+.titles {
+  font-family: 'Neucha', cursive;
   font-size: 60px;
   text-align: center;
 }
+
+
+
+
+/* .titles{
+  font-family: 'Freckle Face', cursive;
+  font-size: 60px;
+  text-align: center;
+} */
